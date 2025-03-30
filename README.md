@@ -6,7 +6,7 @@ This project analyzes customer churn data from a telecom company using Power BI.
 
 📊 Features of the Dashboard
 
-Total Customers & Churn Rate: Displays the overall number of customers and the percentage of churned customers.
+Total Customers & Churn Rate:  Displays the overall number of customers and the percentage of churned customers.
 
 Churn Breakdown by Contract Type: Shows how different contract types affect customer retention.
 
@@ -36,7 +36,7 @@ Excel/CSV – Source data format.
 
 📂 Dataset
 
-The dataset contains customer demographics, contract details, payment information, and internet service usage. You can find the dataset here.
+The dataset contains customer demographics, contract details, payment information, and internet service usage. You can find the dataset here(https://www.kaggle.com/datasets/mexwell/telecom-customer-churn).
 
 🚀 How to Use This Dashboard
 
