@@ -78,3 +78,12 @@ For any queries or suggestions, feel free to reach out via LinkedIn or GitHub Is
 ---
 
 ⭐ If you found this project useful, give it a star on GitHub! ⭐
+
+## License & Usage Terms
+
+This project is a personal learning project.
+It is NOT open source and is not licensed for public or third-party use.
+You may NOT use, copy, modify, distribute, or reproduce any part of this project or its contents for any purpose.
+All rights reserved.
+Unauthorized use is strictly prohibited and may lead to legal consequences.
+for any usage or collaboration request , please contract me via Github profile 
